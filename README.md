@@ -1,7 +1,7 @@
 ### Hi, I´m Angela 👋
 - 🔭 I’m currently working on a feature for Signal
 - 🌱 I’m currently exploring Full Stack Development 
-- 📫 Let’s connect over <a href="linkedin.com/in/angela-laguia-a01543209">LinkedIn</a>
+- 📫 Let’s connect over <a href="https://linkedin.com/in/angela-laguia-a01543209">LinkedIn</a>
 
 
 
